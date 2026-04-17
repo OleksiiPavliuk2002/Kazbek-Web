@@ -1,0 +1,31 @@
+.inputError {
+  border-color: #e74c3c !important;
+}
+
+.fieldError {
+  display: block;
+  color: #ff3333 !important;
+  font-size: 0.85rem;
+  margin-top: 0.35rem;
+  font-weight: 700 !important;
+}
+
+.formError {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #fadbd8;
+  border-left: 4px solid #e74c3c;
+  color: #ff0000 !important;
+  border-radius: 4px;
+  font-weight: 700 !important;
+}
+
+.formSuccess {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #d5f4e6;
+  border-left: 4px solid #27ae60;
+  color: #008000 !important;
+  border-radius: 4px;
+  font-weight: 700 !important;
+}
